@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 '''
 This code converts zmat to pdb
 usage: zmat_to_pdb.py <zmat-file>
