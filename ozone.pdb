@@ -1,0 +1,8 @@
+COMPND    OZONE
+AUTHOR    SWASTIK MISHRA
+HETATM    1  O   NIL X   1         0.0     0.0     0.0  1.00  0.00           O
+HETATM    2  O   NIL X   1        1.48     0.0     0.0  1.00  0.00           O
+HETATM    3  O   NIL X   1      -0.493   1.395     0.0  1.00  0.00           O
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
